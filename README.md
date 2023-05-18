@@ -6,7 +6,8 @@ Dataset Name: Brazilian E-Commerce Public Dataset by Olist
 
 Dataset Source: Kaggle
 Description: This dataset contains data from a Brazilian e-commerce company called Olist. The data includes information about products, customers, orders, ratings, and more. This dataset can be used to analyze customer behavior, product performance, customer satisfaction, and so on.
-Amount of Data: This dataset consists of several interconnected CSV files. Here are some of the main files and the number of rows of data contained in each file:
+Amount of Data: This dataset consists of several interconnected CSV files. 
+Here are some of the main files and the number of rows of data contained in each file:
 orders.csv: Order and appraisal information (more than 100k data lines)
 customers.csv: Customer information (over 90k rows of data)
 products.csv: Product information (over 30k rows of data)

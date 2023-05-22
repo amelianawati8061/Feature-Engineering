@@ -24,10 +24,10 @@ sellers.csv: seller_id, seller_city, seller_state, and others.
 reviews.csv: review_id, order_id, review_score, review_comment_title, review_comment_message, and others.
 
 Analysis Purposes: This dataset can be used for various analysis purposes, such as:
-Analysis of customer behavior and product preferences.
-Evaluation of seller and product performance.
-Prediction of product ratings based on certain features.
-Customer segmentation based on preferences or location.
-Analysis of customer satisfaction and product review patterns.
+1. Analysis of customer behavior and product preferences.
+2. Evaluation of seller and product performance.
+3. Prediction of product ratings based on certain features.
+4. Customer segmentation based on preferences or location.
+5. Analysis of customer satisfaction and product review patterns.
 
 Reference: Kaggle - Brazilian E-Commerce Public Dataset by Olist (dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
